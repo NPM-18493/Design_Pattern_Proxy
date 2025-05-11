@@ -1,4 +1,4 @@
-# Design_Pattern_Proxy
+# Design Pattern Proxy
 
 ### Type
 Structural Design Pattern
