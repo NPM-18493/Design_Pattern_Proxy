@@ -29,4 +29,6 @@ Proxy Design Pattern provides an object as a surrogate or placeholder for anothe
 ### Diagram
 ![Protection_Proxy_Design_Pattern drawio](https://github.com/user-attachments/assets/ccde5fa3-19df-467c-9d4f-511ea37d0c37)
 
+![VirtualProxyPattern drawio](https://github.com/user-attachments/assets/c8fe02bf-2cbb-4aa4-b9b5-f02d60094b9d)
+
 
