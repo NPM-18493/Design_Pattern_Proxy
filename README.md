@@ -27,7 +27,6 @@ Proxy Design Pattern provides an object as a surrogate or placeholder for anothe
 + Cache Proxy comes with overhead of keeping cache resource in sync with original resource.
 
 ### Diagram
-
-
+![Protection_Proxy_Design_Pattern drawio](https://github.com/user-attachments/assets/ccde5fa3-19df-467c-9d4f-511ea37d0c37)
 
 
