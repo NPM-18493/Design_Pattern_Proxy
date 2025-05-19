@@ -36,3 +36,4 @@ Proxy Design Pattern provides an object as a surrogate or placeholder for anothe
 ![Remote_Proxy_Diagram](https://github.com/user-attachments/assets/61f71cc0-cbcf-4b22-a8a6-943d1d6bdc80)
 <hr/>
 
+Similarly, other Proxy Design Patterns can be implmented.
